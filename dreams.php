@@ -7,6 +7,20 @@ echo 123, 'Codeing', 10.4; // use multiple value
 print 'Linux';  // print is also print text just like python but print can't print multiple value
 
 
+print_r([1, 2, 3]);// print_r also print values || print_r uses for raise we will talk about in the next's files
+
+
+
+var_dump('lsof'); // var_dump also using for print but with more information
+
+
+
+var_dump(true);
+
+
+
+var_export('Hello World') // var_export also using for printing staff but with string
+
 
 
 
